@@ -1,10 +1,10 @@
-# [PYTORCH] Deep Q-learning for playing Flappy Bird
+# Deep Q-learning for playing Flappy Bird
 
 ## Introduction
 
 Here is my python source code for training an agent to play flappy bird. It could be seen as a very basic example of Reinforcement Learning's application.
 <p align="center">
-  <img src="demo/flappybird.gif" width=600><br/>
+  <img src="./demo.gif" width=600><br/>
   <i>Result</i>
 </p>
 
@@ -20,7 +20,7 @@ You could find my trained model at **trained_models/flappy_bird**
  
 ## Requirements
 
-* **python 3.6**
+* **python 3.12**
 * **pygame**
 * **cv2**
 * **pytorch** 
