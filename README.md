@@ -4,7 +4,7 @@
 
 Here is my python source code for training an agent to play flappy bird. It could be seen as a very basic example of Reinforcement Learning's application.
 <p align="center">
-  <img src="./demo.gif" width=600><br/>
+  <img src="./demo.gif" width=800><br/>
   <i>Result</i>
 </p>
 
