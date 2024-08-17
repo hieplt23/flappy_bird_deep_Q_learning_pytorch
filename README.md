@@ -1,4 +1,6 @@
-# Deep Q-learning for playing Flappy Bird
+<div align="center">
+  <h1>Deep Q-learning for playing Flappy Bird 🐥</h1>
+</div>
 
 ## Introduction
 
